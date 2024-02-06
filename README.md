@@ -1,3 +1,5 @@
 # Endless-Ascend
-Endless Ascend is a game made by me for Project Competiton for an academy.
-This project is made with Unity and got in 1st place in the competition.
+Endless Ascend is a game made by me for Project Competiton for an academy.<br>
+Got 1st place in the competition.
+
+Made in Unity Engine (v 2022.3.1f1)
